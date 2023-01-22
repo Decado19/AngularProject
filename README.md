@@ -8,5 +8,6 @@
 ## API
 # https://rapidapi.com/accujazz/api/rawg-video-games-database
 
-## Author
-# Decado, student at Vistacollege.
+## Authors
+
+- [@Decado19](https://github.com/Decado19)
